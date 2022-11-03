@@ -1,70 +1,61 @@
-# Getting Started with Create React App
+# Bem vindo ao meu clone do Discord
+Esse clone foi criado em algumas horas enquanto eu assistia o Iem Rio, tive a ideia de clonar alguma interface utilizando React e css.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### `primeiro passo`
+Comecei criando um novo app do react com o comando [Create React App](https://github.com/facebook/create-react-app), e então fiz uma limpeza nas paginas.
 
-## Available Scripts
+![image](https://user-images.githubusercontent.com/68919243/199786007-74838e63-a741-498f-a8f8-6062614453d0.png)
 
-In the project directory, you can run:
+Rodei o app para ver se estava funcionando.
 
-### `npm start`
+![image](https://user-images.githubusercontent.com/68919243/199786714-a1d41e5c-5fac-4214-ad18-b812494da153.png)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+estava funcionando normalmente.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+![image](https://user-images.githubusercontent.com/68919243/199786852-972f189a-5f13-48b4-a263-9b697d34ea6b.png)
 
-### `npm test`
+### `segundo passo`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+comecei a criar a barra lateral onde tem alguns pontos a se observar, ela se divide em 3 campos, o primeiro onde mostra os chats com pessoas, o segundo que mostra os grupos e o terceiro que é para criar grupos.
 
-### `npm run build`
+como meu foco era somente a pagina inicial não foquei no terceiro ponto, mas nos dois primeiros e comecei a criar eles.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![image](https://user-images.githubusercontent.com/68919243/199787756-5659ba0d-509e-4b6a-9a6c-5ca86b6b78d2.png)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+fiz um estilo basico, com os itens que já tinham
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![image](https://user-images.githubusercontent.com/68919243/199787875-107c3a1e-6ac9-4dc9-92cd-8c687005d955.png)
 
-### `npm run eject`
+e esse foi o primeiro resultado.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+![image](https://user-images.githubusercontent.com/68919243/199787986-00c22e8b-b81a-4bca-aedd-d54d2ce1f1b2.png)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### `terceiro passo`
+nesse terceiro passo comecei a focar na segunda barra lateral a de amigos que existe no app, e observei novamente os pontos, criei o estilo igual o passo anterios e o resultado foi basicamente esse.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+![image](https://user-images.githubusercontent.com/68919243/199788305-1a4a9d93-2366-41cf-aeb0-b60c1b45ef56.png)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### `quarto passo`
 
-## Learn More
+O quarto passo foi criar a barra superior onde tem os amigos que estão no app por status deles "online,todos e mais", então comecei a criação, vale se observar que na barra do discord ainda tem um extra no lado direito, eu criei o espaço, mas como a questão era criar o mais rápido possivel sem perder tempo, então não fui atras dos icones, mas esse foi o resultado.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+![image](https://user-images.githubusercontent.com/68919243/199789162-65bdab51-5f90-4377-bcb8-6f94572f6f5d.png)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Já está bem parecido com o discord, claro com suas diferenças.
 
-### Code Splitting
+### `quinto passo`
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+esse foi o mais legal para mim pois eu não sabia como iria fazer, mas com um pouco de café kkkk, consegui pensar e criar da forma que pode ver abaixo.
 
-### Analyzing the Bundle Size
+![image](https://user-images.githubusercontent.com/68919243/199789545-695c25d2-eee7-4ce9-be2d-6ee517282002.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+vale se observar que teve alguns bugs visuais que com mais tempo poderia ser corrigido, gostei do resultado, mas achei perfeito, pode ser melhorado e ficar idêntico.
 
-### Making a Progressive Web App
+claro tambem fiz as animações que tem no app, veja o resultado final no gif abaixo.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+![image](https://user-images.githubusercontent.com/68919243/199789907-defa7380-2b95-4d69-9697-4c73f9440661.png)
 
-### Advanced Configuration
+se gostou e acha que devo trazer uma video aula mostrando como criar, fala no próprio discord.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+baymax#7769
+só mandar convite.
