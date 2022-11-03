@@ -54,7 +54,7 @@ vale se observar que teve alguns bugs visuais que com mais tempo poderia ser cor
 claro tambem fiz as animações que tem no app, veja o resultado final no gif abaixo.
 
 <p align="center">
-  <img width="1280" height="720" src="./img/resultado final.gif">
+  <img src="imgs/resultado final.gif">
 </p>
 
 se gostou e acha que devo trazer uma video aula mostrando como criar, fala no próprio discord.
